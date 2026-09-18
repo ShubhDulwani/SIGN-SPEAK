@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# ML / Model files (optional)
+*.h5
+*.pkl
+
